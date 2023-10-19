@@ -566,6 +566,13 @@ font-size: 14px;
 color: white;
 }
 
+.containerfigure
+{
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
 .explore{
 padding-left: 20px;
 font-size: 40px;
